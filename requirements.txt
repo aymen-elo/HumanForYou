@@ -21,6 +21,10 @@ statsmodels>=0.14
 
 # Explainability
 shap>=0.42
+lime>=0.2
+
+# Fairness
+fairlearn>=0.10
 
 # Jupyter
 jupyter>=1.0
